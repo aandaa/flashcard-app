@@ -1,0 +1,3 @@
+What is the capital of Mongolia?;Ulaanbaatar
+What is my name?;Aandaa
+What is the largest planet?;Jupiter
